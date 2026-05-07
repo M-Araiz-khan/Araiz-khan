@@ -16,5 +16,5 @@
 - [cite_start]**Tools:** Git/GitHub, Responsive Design, Debugging [cite: 40, 41]
 
 ### 📫 Let's Connect
-- [cite_start]**LinkedIn:** [linkedin.com/m-araiz](https://www.linkedin.com/m-araiz) [cite: 56]
+LinkedIn: [linkedin.com/m-araiz](https://www.linkedin.com/m-araiz)
 - [cite_start]**Email:** maraizkhan911@gmail.com [cite: 54]
