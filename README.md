@@ -1,6 +1,6 @@
-# [cite_start]Muhammad Araiz [cite: 49]
+Muhammad Araiz
 
-**Mobile Application Developer | React Native | [cite_start]BS Computer Science** [cite: 62]
+Mobile Application Developer | React Native | [cite_start]BS Computer Science
 
 A proactive problem-solver and dedicated developer, I am leveraging a robust foundation in Web Development to master Mobile Application Development. My primary professional objective is to become a high-level cross-platform expert, engineering seamless digital ecosystems that deliver exceptional, user-centric solutions
 
